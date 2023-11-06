@@ -1,7 +1,7 @@
 # ✨ Spark Framework
 Welcome to our page! This is the organization of the [Spark Framework](https://github.com/spark-framework/spark) and its following scripts.
 
-## 📄 Documentation
+## 📚 Documentation
 You can find our documentation on our [discord](https://discord.gg/V3qMFJhWas) for now.
 
 ## 💬 Discord
